@@ -5,6 +5,14 @@ body {
   color: #121212;
 }
 
-figure { margin: 0; }
+figure {
+  margin: 0;
+}
 
-footer { background: #121212; color: #fff; }
+footer {
+  background: #121212;
+  color: #fff;
+}
+header {
+  background-size: cover;
+}
